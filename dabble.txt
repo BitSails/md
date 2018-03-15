@@ -1,0 +1,9 @@
+var old_img = createImage(10, 10);
+old_img.loadPixels();
+
+
+loop:
+old_img = copy from vid??
+old_img.updatePixels();
+save(old_img, 'my.png'); //str(10.31)
+
